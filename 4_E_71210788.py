@@ -1,0 +1,6 @@
+print("=======Program test aritmatika dasar=======")
+print("Pilihan level yang tersedia :")
+print("1. Easy")
+print("2. Medium")
+print("3. Hard")
+tingkat = input("Masukkan tingkatan yang ingin anda coba : ")
